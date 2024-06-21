@@ -4,10 +4,10 @@
 <h3>API de cadastro de endereços.</h3>
 <h6>Este projeto(API) consiste em fazer o gerenciamento de cadastro de endereços. Utilizando as rotas:
 <br>
-- GET/adresses - Consulta lista de todos os endereços cadastrados.
-- GET/address/:id - Consulta um endereço específico pelo seu ID.
-- POST/address - Adiciona um novo endereço.
-- DELETE/address/:id: Remova endereço cadastrado através do seu ID.
+- GET/adresses - Consulta lista de todos os endereços cadastrados.<br>
+- GET/address/:id - Consulta um endereço específico pelo seu ID.<br>
+- POST/address - Adiciona um novo endereço.<br>
+- DELETE/address/:id: Remova endereço cadastrado através do seu ID.<br>
 - PATCH/address/:id: Edita e atualiza endereço através do seu ID.</h6>
 <br>
 <h3>Tecnologias utilizadas: </h3>
