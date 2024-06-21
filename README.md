@@ -3,7 +3,7 @@
 
 <h3>API de cadastro de endereços.</h3>
 <h6>Este projeto(API) consiste em fazer o gerenciamento de cadastro de endereços. Utilizando as rotas:
-<br>
+<br><br>
 - GET/adresses - Consulta lista de todos os endereços cadastrados.<br>
 - GET/address/:id - Consulta um endereço específico pelo seu ID.<br>
 - POST/address - Adiciona um novo endereço.<br>
